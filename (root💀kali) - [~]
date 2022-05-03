@@ -1,0 +1,8 @@
+ # git clon https://github.com/htr-tec/zphisher.git
+Cloning into 'zphisher'...
+remote: Enumerating objects: 149, done.
+remote: Counting objects: 100% (143/143), done. 
+remote: Compressing objects: 100% (143/143), done.
+remote: Total 1280 (delta 46), reused 66 (delt 6), pack-reused 1131
+Receiving object: 100% (1280/1280), 25.12 MiB |81.00 KiB/s, done. 
+Resving deltas: 100% (522/522), done. 	
